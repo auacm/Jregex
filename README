@@ -1,0 +1,1 @@
+Uses the java Pattern class to match regex. First arg is the test string. Second arg is the regex pattern 
